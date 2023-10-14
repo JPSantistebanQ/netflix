@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://jpsantistebanq.github.io/netflix/static/css/main.f6771f98.css",
-    "main.js": "https://jpsantistebanq.github.io/netflix/static/js/main.76c677e0.js",
+    "main.js": "https://jpsantistebanq.github.io/netflix/static/js/main.ca8bb2cc.js",
     "static/js/787.5e3e2167.chunk.js": "https://jpsantistebanq.github.io/netflix/static/js/787.5e3e2167.chunk.js",
     "static/media/login.jpg": "https://jpsantistebanq.github.io/netflix/static/media/login.1a5678025d58f1a441b8.jpg",
     "static/media/logo.png": "https://jpsantistebanq.github.io/netflix/static/media/logo.f4070143e1f521da82a1.png",
     "index.html": "https://jpsantistebanq.github.io/netflix/index.html",
     "main.f6771f98.css.map": "https://jpsantistebanq.github.io/netflix/static/css/main.f6771f98.css.map",
-    "main.76c677e0.js.map": "https://jpsantistebanq.github.io/netflix/static/js/main.76c677e0.js.map",
+    "main.ca8bb2cc.js.map": "https://jpsantistebanq.github.io/netflix/static/js/main.ca8bb2cc.js.map",
     "787.5e3e2167.chunk.js.map": "https://jpsantistebanq.github.io/netflix/static/js/787.5e3e2167.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6771f98.css",
-    "static/js/main.76c677e0.js"
+    "static/js/main.ca8bb2cc.js"
   ]
 }
